@@ -4,9 +4,9 @@
 }
 
 body {
-    background-image: url('/weather.jpeg');
+    background-image: url("Screenshot (214).png");
     background-size: cover;
-    background-position: center center; 
+    background-position: center; 
     background-repeat: no-repeat; 
     
 }
